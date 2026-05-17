@@ -1,7 +1,9 @@
 # 📡 InstaHarvest Pipeline
 
 > **Enterprise-grade Instagram data extraction pipeline** with parallel processing, resume support, automated cloud upload, and a DevOps-first architecture. Built to demonstrate production-level engineering practices — from local execution to full container orchestration.
+## Architecture
 
+![Pipeline Architecture](docs/architecture.png)
 ---
 
 ## 🗂️ Table of Contents
